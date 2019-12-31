@@ -1,0 +1,6 @@
+"Battleaxe"
+"Longsword"
+"Mace"
+"Club"
+"Falchion"
+"Woodsman's Axe"
